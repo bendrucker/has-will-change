@@ -1,7 +1,7 @@
 {
   "name": "has-will-change",
   "main": "index.js",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Detect support for will-change CSS property",
   "license": "MIT",
   "repository": "bendrucker/has-will-change",
