@@ -1,4 +1,4 @@
-# has-will-change [![Build Status](https://travis-ci.org/bendrucker/has-will-change.svg?branch=master)](https://travis-ci.org/bendrucker/has-will-change)
+# has-will-change [![Build Status](https://travis-ci.org/bendrucker/has-will-change.svg?branch=master)](https://travis-ci.org/bendrucker/has-will-change) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/has-will-change.svg)](https://greenkeeper.io/)
 
 > Detect support for will-change CSS property
 
